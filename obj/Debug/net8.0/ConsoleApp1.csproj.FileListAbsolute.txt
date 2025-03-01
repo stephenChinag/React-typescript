@@ -27,3 +27,7 @@ C:\Users\HP\Desktop\C#\obj\Debug\net8.0\refint\ConsoleApp1.dll
 C:\Users\HP\Desktop\C#\obj\Debug\net8.0\ConsoleApp1.pdb
 C:\Users\HP\Desktop\C#\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\HP\Desktop\C#\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\HP\Desktop\C#\bin\Debug\net8.0\MyLibrary.dll
+C:\Users\HP\Desktop\C#\bin\Debug\net8.0\MyLibrary.pdb
+C:\Users\HP\Desktop\C#\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
